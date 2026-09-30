@@ -9,7 +9,7 @@ I mainly work with **React / TypeScript** on the frontend and **Java / Go** on t
 ```text
 Frontend       → React · TypeScript · Next.js · HTML · SCSS
 Backend        → Java · Spring Boot · Go · REST API
-Database       → PostgreSQL · Supabase
+Database       → PostgreSQL · MySQL  Supabase
 DevOps         → Docker · Git · GitHub · Vercel
 Currently      → Go · Rust · AI Engineering
 ```
