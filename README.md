@@ -30,13 +30,12 @@ Currently      → Go · Rust · AI Engineering
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square\&logo=sass\&logoColor=white)
 
 **Backend & Database**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat-square\&logo=supabase\&logoColor=white)
 
 **Tools & Infrastructure**
