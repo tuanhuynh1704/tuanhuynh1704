@@ -7,7 +7,7 @@ I'm a developer who enjoys building clean, practical, and scalable software.
 I mainly work with **React / TypeScript** on the frontend and **Java / Go** on the backend. I'm currently expanding my knowledge in **Next.js, Go, Rust, AI systems, and software architecture**.
 
 ```text
-Frontend       → React · TypeScript · Next.js · HTML · SCSS
+Frontend       → React · TypeScript · Next.js
 Backend        → Java · Spring Boot · Go · REST API
 Database       → PostgreSQL · MySQL · Supabase
 DevOps         → Docker · Git · GitHub · Vercel
